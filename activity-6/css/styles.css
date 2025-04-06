@@ -1,0 +1,30 @@
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Permanent Marker', sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-size: 400%;
+}
+
+.messages {
+    margin-bottom: 20px;
+}
+
+.out-message {
+    padding: 5px;
+    background-color: lightgreen;
+}
+
+.in-message {
+    padding: 5px;
+    background-color: lightblue;
+}
